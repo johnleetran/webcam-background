@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import blend_modes
 
 currentFrame = None
 base_red = 156
