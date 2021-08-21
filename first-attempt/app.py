@@ -38,7 +38,7 @@ def display_web_camera(window_name):
     base_blue = 0
     while cv2.waitKey(1) == -1:
         if frame is not None:
-            base_upper = 70
+            base_upper = 50
             base_lower = 50
 
             currentFrame = frame
